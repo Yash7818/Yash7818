@@ -32,7 +32,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-a950cc?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![NPM](https://img.shields.io/badge/-NPM-f24130?style=flat&logo=npm&logoColor=white)
-
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Arduino](https://img.shields.io/badge/-ARDUINO-4da6f0?style=flat&logo=arduino&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=badge&logo=mongodb&logoColor=38cf13)
