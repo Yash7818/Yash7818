@@ -3,12 +3,13 @@
 -   :mortar_board: Currently Studying in **Indian Institute of Information Technology, Surat**
 - 👯 I’m looking to collaborate on Web-development Projects
 - 🤔 I’m curious to learn different framework and stacks in web development and do mobile app development in React Native
-- 📫 How to reach me (Contact me with the Following):-
+- 📫 **How to reach me (Contact me with the Following):**
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwandhare1234@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-wandhare-10224018b/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-fa37e3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashanandwandhare/)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yash.wandhare.5)
+[![Devfolio](https://img.shields.io/badge/-Devfolio-3b5998?style=for-the-badge&logo=Devfolio&logoColor=white)](https://devfolio.co/@yash7818)
 
 #### Languages Known :
 
