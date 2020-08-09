@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwandhare1234@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-wandhare-10224018b/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-fa37e3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashanandwandhare/)
-[![Facebook](https://img.shields.io/badge/-FACEBOOK-fa37e3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashanandwandhare/)
+[![Facebook](https://img.shields.io/badge/-FACEBOOK-fa37e3?style=for-the-badge&logo=facebook&logoColor=white)](https://www.instagram.com/yashanandwandhare/)
 
 #### Languages Known :
 
