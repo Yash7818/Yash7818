@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwandhare1234@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-wandhare-10224018b/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-fa37e3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashanandwandhare/)
-[![Facebook](https://img.shields.io/badge/-FACEBOOK-fa37e3?style=for-the-badge&logo=facebook&logoColor=white)](https://www.instagram.com/yashanandwandhare/)
+[![Facebook](https://img.shields.io/badge/-FACEBOOK-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yash.wandhare.5)
 
 #### Languages Known :
 
@@ -28,6 +28,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/-CSS-53e0ce?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Flask](https://img.shields.io/badge/-Flask-222222?style=flat&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=express.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-a950cc?style=flat&logo=bootstrap&logoColor=white)
