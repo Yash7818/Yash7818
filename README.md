@@ -40,7 +40,7 @@
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=badge&logo=mongodb&logoColor=38cf13)
 ![Postman](https://img.shields.io/badge/-POSTMAN-orange?style=flat&logo=postman&logoColor=white)
 
-### Special Intrest:
+#### Special Intrest:
 - In Web Development, I love front end . I like to design the website overview and add styling.
 - To make web work interactive and more intresting attractive , I worked on the animations part.
 - I like to work on illustrations to make website more vibrant.
