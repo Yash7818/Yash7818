@@ -34,7 +34,7 @@
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux&logoColor=a950cc)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-a950cc?style=flat&logo=bootstrap&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-FFFFFF?style=flat&logo=Jest&logoColor=Red)
+![Jest](https://img.shields.io/badge/-Jest-Red?style=flat&logo=Jest&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![NPM](https://img.shields.io/badge/-NPM-f24130?style=flat&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
