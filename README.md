@@ -11,7 +11,7 @@
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yash.wandhare.5)
 [![Devfolio](https://img.shields.io/badge/-Devfolio-3b5998?style=for-the-badge&logo=Devfolio&logoColor=white)](https://devfolio.co/@yash7818)
 
-#### Languages Known :
+#### Programming Languages Known:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -24,7 +24,7 @@
   - Hindi
   - Marathi
   
-#### Technologies Known : 
+#### Technologies Known: 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/-CSS-53e0ce?style=flat&logo=css3&logoColor=white)
@@ -49,7 +49,7 @@
 - I like to make and design illustration and logos using **Figma** and I have started using **Illustartor**.
 - My animations are mostly based in CSS but I would also like to do it in javascript.
 
-#### GitHub stats :
+#### GitHub stats:
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=Yash7818&show_icons=true&theme=radical) 
 
