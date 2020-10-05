@@ -47,7 +47,7 @@
 - To make web work interactive and more intresting attractive , I worked on the animations part.
 - I like to work on illustrations to make website more vibrant.
 - I like to make and design illustration and logos using **Figma** and I have started using **Illustartor**.
-- My animations are mostly based in CSS but I would also like to do it in javascript.
+- My animations are mostly based in CSS but I would also like to do it in javascript too.
 
 #### GitHub stats:
 
