@@ -1,6 +1,5 @@
 ### Hi there! 👋
 ### I'm ***Yash Wandhare***
--   :mortar_board: Currently Studying in **Indian Institute of Information Technology, Surat**
 - 👯 I’m looking to collaborate on Web-development Projects
 - 🤔 I’m curious to learn different framework and stacks in web development and do mobile app development in React Native
 - 📫 **How to reach me (Contact me with the Following):**
