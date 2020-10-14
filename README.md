@@ -41,7 +41,8 @@
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=badge&logo=mongodb&logoColor=38cf13)
 ![Postman](https://img.shields.io/badge/-POSTMAN-orange?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-FIGMA-black?style=flat&logo=figma&logoColor=white)
-<img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+![Tailwind](https://img.shields.io/badge/TAILWINDcss%20-%2338B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)
+
 
 #### Special Intrest:
 - In Web Development, I love front end . I like to design the website overview and add styling.
