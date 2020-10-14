@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! 👋 <img align="right" src="https://komarev.com/ghpvc/?username=Yash7818&style=flat-square" />
 ### I'm ***Yash Wandhare***
 - 👯 I’m looking to collaborate on Web-development Projects
 - 🤔 I’m curious to learn different framework and stacks in web development and do mobile app development in React Native
@@ -40,6 +40,7 @@
 ![Arduino](https://img.shields.io/badge/-ARDUINO-4da6f0?style=flat&logo=arduino&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=badge&logo=mongodb&logoColor=38cf13)
 ![Postman](https://img.shields.io/badge/-POSTMAN-orange?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-POSTMAN-orange?style=flat&logo=figma&logoColor=white)
 
 #### Special Intrest:
 - In Web Development, I love front end . I like to design the website overview and add styling.
@@ -52,7 +53,8 @@
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=Yash7818&show_icons=true&theme=radical) 
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash7818&show_icons=true&theme=radical&layout=compact)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash7818&show_icons=true&theme=radical&layout=compact)<br>
+
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
