@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-wandhare-10224018b/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-fa37e3?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yashanandwandhare/)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-3b5998?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/yash.wandhare.5)
-[![Devfolio](https://img.shields.io/badge/-Devfolio-3b5998?style=flat&logo=devFolio&logoColor=white)](https://devfolio.co/@yash7818)
+[![Devfolio](https://img.shields.io/badge/-DEVFOLIO-3b5998?style=flat&logo=devFolio&logoColor=white)](https://devfolio.co/@yash7818)
 
 #### Programming Languages Known:
 
