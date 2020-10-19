@@ -43,7 +43,7 @@
 ![Figma](https://img.shields.io/badge/-FIGMA-black?style=flat&logo=figma&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwindcss%20-%2338B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux%20-black.svg?&style=flat&logo=linux&logoColor=orange)
-
+![Heroku](https://img.shields.io/badge/heroku%20-a950cc.svg?&style=flat&logo=heroku&logoColor=purple)
 
 #### Special Intrest:
 - In Web Development, I love front end . I like to design the website overview and add styling.
