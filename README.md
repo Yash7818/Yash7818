@@ -1,4 +1,5 @@
-### Hi there! 👋 <img align="right" src="https://komarev.com/ghpvc/?username=Yash7818&style=flat-square" />
+### Hi there! <br><img width="110px" src="tenor.gif" /> <img align="right" src="https://komarev.com/ghpvc/?username=Yash7818&style=flat-square" />
+
 ### I'm ***Yash Wandhare***
 - 👯 I’m looking to collaborate on Web-development Projects
 - 🤔 I’m curious to learn different framework and stacks in web development and do mobile app development in React Native
