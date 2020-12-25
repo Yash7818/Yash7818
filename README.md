@@ -1,5 +1,5 @@
 [<img width="25px" src="icon.png" /> **Yash Wandhare | PortFolio**](https://yashwandhare.web.app)
-### Hi there! <br><img width="110px" src="tenor.gif" /> <img align="right" src="https://komarev.com/ghpvc/?username=Yash7818&style=flat-square" />
+### Hi there! <br><img width="110px" src="tenor2.gif" /> <img align="right" src="https://komarev.com/ghpvc/?username=Yash7818&style=flat-square" />
 
 ### I'm ***Yash Wandhare***
 - 👯 I’m looking to collaborate on Web-development Projects
