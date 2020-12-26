@@ -2,11 +2,13 @@
 ### Hi there! <br><img width="110px" src="tenor2.gif" /> <img align="right" src="https://komarev.com/ghpvc/?username=Yash7818&style=flat-square" />
 
 ### I'm ***Yash Wandhare***
+<!--
 - 👯 I’m looking to collaborate on Web-development Projects
-- 🤔 I’m curious to learn different framework and stacks in web development and do mobile app development in React Native
+- 🤔 I’m curious to learn different framework and stacks in web development and do mobile app development in React Native -->
+<img src="intro_part.png" /><br>
 - 📫 **How to reach me (Contact me with the Following):**
 
-[<img width="45px" src="gmail.png" />](mailto:yashwandhare1234@gmail.com) &nbsp;
+&nbsp;&nbsp;[<img width="45px" src="gmail.png" />](mailto:yashwandhare1234@gmail.com) &nbsp;
 [<img width="45px" src="linkedin.png" />](https://www.linkedin.com/in/yash-wandhare-10224018b/) &nbsp;
 [<img width="45px" src="instagram.png" />](https://www.instagram.com/yashanandwandhare/) &nbsp;
 [<img width="45px" src="facebook.png" />](https://www.facebook.com/yash.wandhare.5) &nbsp;
