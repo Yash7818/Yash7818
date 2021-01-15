@@ -35,7 +35,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-53e0ce?style=flat&logo=css3&logoColor=white)
-![MATERIAL-UI](https://img.shields.io/badge/-MATERIALUI-222222?style=flat&logo=material-ui&logoColor=2196f3)
+![MATERIAL-UI](https://img.shields.io/badge/-MATERIAL%20UI-222222?style=flat&logo=material-ui&logoColor=2196f3)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Flask](https://img.shields.io/badge/-Flask-222222?style=flat&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=express.js&logoColor=339933)
