@@ -3,10 +3,10 @@
 
 ### I'm ***Yash Wandhare***
 
-- 👯 I’m looking to collaborate on Web-development Projects
-- 🤔 I’m curious to learn different framework and stacks in web development and do mobile app development in React Native 
+- 👯 Would love to collaborate on Web development projects. 
+- 🤔 Working proficiently on MERN stack and enriching my existing knowledge with gaining skills in various techs of web & mobile development.
 
-- 📫 **How to reach me (Contact me with the Following):** 
+- 📫 **Catch me here: ** 
 <!--
 **Contact me with the following :**<br> -->
 [<img width="45px" src="gmail.png" />](mailto:yashwandhare1234@gmail.com) &nbsp;
