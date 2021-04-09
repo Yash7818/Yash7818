@@ -62,9 +62,9 @@
 
 #### GitHub stats:
 
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=Yash7818&show_icons=true&theme=radical) 
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=Yash7818&show_icons=true) 
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash7818&show_icons=true&theme=radical&layout=compact)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash7818&show_icons=true)
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
