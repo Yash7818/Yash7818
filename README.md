@@ -6,9 +6,10 @@
 - 👯 Would love to collaborate on Web development projects. 
 - 🤔 Working proficiently on MERN stack and enriching my existing knowledge with gaining skills in various techs of web & mobile development.
 
-- 📫 **Catch me here: ** 
+- 📫  **Catch me here:** 
 <!--
 **Contact me with the following :**<br> -->
+
 [<img width="45px" src="gmail.png" />](mailto:yashwandhare1234@gmail.com) &nbsp;
 [<img width="45px" src="linkedin.png" />](https://www.linkedin.com/in/yash-wandhare-10224018b/) &nbsp;
 [<img width="45px" src="instagram.png" />](https://www.instagram.com/yashanandwandhare/) &nbsp;
@@ -16,19 +17,13 @@
 [<img width="45px" src="twitter.png" />](https://twitter.com/@YashWandhare1)
 
 
+#### Programming Languages familiar with:
 
-#### Programming Languages Known:
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) &nbsp;
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B) &nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) &nbsp;
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) &nbsp;
 ![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php)
-  
- #### Conversational Languages:
-  - English
-  - Hindi
-  - Marathi
   
 #### Technologies Known: 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
