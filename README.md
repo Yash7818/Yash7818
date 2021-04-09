@@ -9,12 +9,12 @@
 - 📫 **How to reach me (Contact me with the Following):** 
 <!--
 **Contact me with the following :**<br> -->
-
 [<img width="45px" src="gmail.png" />](mailto:yashwandhare1234@gmail.com) &nbsp;
 [<img width="45px" src="linkedin.png" />](https://www.linkedin.com/in/yash-wandhare-10224018b/) &nbsp;
 [<img width="45px" src="instagram.png" />](https://www.instagram.com/yashanandwandhare/) &nbsp;
 [<img width="45px" src="facebook.png" />](https://www.facebook.com/yash.wandhare.5) &nbsp;
 [<img width="45px" src="twitter.png" />](https://twitter.com/@YashWandhare1)
+
 
 
 #### Programming Languages Known:
@@ -45,6 +45,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-Red?style=flat&logo=Jest&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![NPM](https://img.shields.io/badge/-NPM-f24130?style=flat&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-yarn-f24130?style=flat&logo=yarn&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Arduino](https://img.shields.io/badge/-ARDUINO-4da6f0?style=flat&logo=arduino&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=badge&logo=mongodb&logoColor=38cf13)
@@ -54,6 +55,7 @@
 ![Linux](https://img.shields.io/badge/linux%20-black.svg?&style=flat&logo=linux&logoColor=orange)
 ![Heroku](https://img.shields.io/badge/heroku%20-a950cc.svg?&style=flat&logo=heroku&logoColor=purple)
 ![Firebase](https://img.shields.io/badge/firebase%20-ffffff.svg?&style=flat&logo=firebase&logoColor=orange)
+![Socketio](https://img.shields.io/badge/socketio%20-ffffff.svg?&style=flat&logo=socketio&logoColor=orange)
 
 
 #### Special Intrest:
