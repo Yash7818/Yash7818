@@ -5,7 +5,7 @@
 
 - 👯 Would love to collaborate on Web development projects. 
 - 🤔 Working proficiently on MERN stack and enriching my existing knowledge with gaining skills in various techs of web & mobile development.
-
+- 😄 Also have intrest and hands-on experience in web designing with **Figma**. 
 - 📫  **Catch me here:** 
 <!--
 **Contact me with the following :**<br> -->
@@ -51,14 +51,6 @@
 ![Heroku](https://img.shields.io/badge/heroku%20-a950cc.svg?&style=flat&logo=heroku&logoColor=purple)
 ![Firebase](https://img.shields.io/badge/firebase%20-ffffff.svg?&style=flat&logo=firebase&logoColor=orange)
 ![Socketio](https://img.shields.io/badge/socketio%20-ffffff.svg?&style=flat&logo=socketio&logoColor=orange)
-
-
-#### Special Intrest:
-- In Web Development, I love front end . I like to design the website overview and add styling.
-- To make web work interactive and more intresting attractive , I worked on the animations part.
-- I like to work on illustrations to make website more vibrant.
-- I like to make and design illustration and logos using **Figma** and I have started using **Illustartor**.
-- My animations are mostly based in CSS but I would also like to do it in javascript too.
 
 #### GitHub stats:
 
