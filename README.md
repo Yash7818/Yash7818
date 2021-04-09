@@ -17,7 +17,7 @@
 [<img width="45px" src="twitter.png" />](https://twitter.com/@YashWandhare1)
 
 
-#### Programming Languages familiar with:
+#### </> Programming Languages familiar with:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) &nbsp;
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B) &nbsp;
@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) &nbsp;
 ![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php)
   
-#### Technologies Known: 
+#### 🧰 Technologies Known: 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
