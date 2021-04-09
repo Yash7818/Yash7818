@@ -52,11 +52,16 @@
 ![Firebase](https://img.shields.io/badge/firebase%20-ffffff.svg?&style=flat&logo=firebase&logoColor=orange)
 ![Socketio](https://img.shields.io/badge/socketio%20-ffffff.svg?&style=flat&logo=socketio&logoColor=orange)
 
-#### GitHub stats:
+#### :trophy: My GitHub stats:
 
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=Yash7818&show_icons=true) 
-
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash7818&show_icons=true)
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Yash7818&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Yash7818&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Yash7818&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Yash7818&hide=php&theme=tokyonight&layout=compact" />
+</a>
+</div>
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
