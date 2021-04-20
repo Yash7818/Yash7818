@@ -1,4 +1,6 @@
-[<img width="25px" src="icon.png" /> **Yash Wandhare | PortFolio**](https://yashwandhare.web.app)
+[<img width="25px" src="icon.png" /> **Yash Wandhare | PortFolio**](https://yashwandhare.web.app)<br><br>
+[⚡ **My Github Resume** ](http://resume.github.io/?Yash7818)
+
 ### Hi there! <br><img width="110px" src="tenor2.gif" /> <img align="right" src="https://komarev.com/ghpvc/?username=Yash7818&style=flat-square" />
 
 ### I'm ***Yash Wandhare***
