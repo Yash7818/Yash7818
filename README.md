@@ -1,5 +1,4 @@
-[<img width="25px" src="icon.png" /> **Yash Wandhare | PortFolio**](https://yashwandhare.web.app)<br><br>
-[⚡ **My Github Resume** ](http://resume.github.io/?Yash7818)
+[<img width="25px" src="icon.png" /> **Yash Wandhare | PortFolio**](https://yashwandhare.web.app)
 
 ### Hi there! <br><img width="110px" src="tenor2.gif" /> <img align="right" src="https://komarev.com/ghpvc/?username=Yash7818&style=flat-square" />
 
@@ -8,6 +7,7 @@
 - 👯 Would love to collaborate on Web development projects. 
 - 🤔 Working proficiently on MERN stack and enriching my existing knowledge with gaining skills in various techs of web & mobile development.
 - 😄 Also have intrest and hands-on experience in web designing with **Figma**. 
+- [⚡ **My Github Resume** ](http://resume.github.io/?Yash7818)
 - 📫  **Catch me here:** 
 <!--
 **Contact me with the following :**<br> -->
