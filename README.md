@@ -37,6 +37,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-222222?style=flat&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=express.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-010101?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=Redux&logoColor=a950cc)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-a950cc?style=flat&logo=bootstrap&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-Red?style=flat&logo=Jest&logoColor=white)
